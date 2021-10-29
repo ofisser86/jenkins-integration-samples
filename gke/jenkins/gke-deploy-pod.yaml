@@ -17,6 +17,6 @@ kind: Pod
 spec:
   containers:
   - name: gke-deploy
-    image: gcr.io/jenkins-gke-plugin/jenkinsagent
+    image: gcr.io/jenkins-gke-plugin/maven-kubectl:latest
     command: ['cat']
     tty: true
