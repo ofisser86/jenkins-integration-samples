@@ -45,4 +45,4 @@ An example project illustrating best practices for running Jenkins on GCP, highl
 *  [Jenkins X](https://github.com/GoogleCloudPlatform/jenkins-integration-samples/tree/master/jenkins-x)
 
 A playbook for installing [Jenkins X](https://jenkins-x.io/), (aka **jx**), on [GCP](https://cloud.google.com/)
-using recommended best practices.!
+using recommended best practices.
